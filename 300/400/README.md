@@ -136,12 +136,3 @@ If needed you can bring down the container as follows:
 $ cd containers/app
 $ docker-compose --file docker-compose.prod.yml stop
 ```
-
-http://localhost:80 (you can leave the port number out, as 80 is the default)
-
-If needed you can bring down the container as follows:
-
-```
-$ cd containers/app
-$ docker-compose --file docker-compose.prod.yml stop
-```
