@@ -124,11 +124,11 @@ $ getenforce
 $ Permissive
 ```
 
-Build and tag the Docker image, and run the container specifying its name as "pwc-stripe-dev" to distinguish it from possible other stacks that are called "app" (the default name, based on the root directory):
+Build and tag the Docker image, and run the container specifying its name as "remotion-dev" to distinguish it from possible other stacks that are called "app" (the default name, based on the root directory):
 
 ```
 $ cd containers/app
-$ docker-compose --file docker-compose.dev.yml --project-name pwc-stripe-dev up --build -d
+$ docker-compose --file docker-compose.dev.yml --project-name remotion-dev up --build -d
 ```
 
 **Note**:   
