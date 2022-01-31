@@ -97,11 +97,11 @@ $ getenforce
 $ Permissive
 ```
 
-Using the production docker-compose file, build and tag the Docker image, and run the container specifying its name as "pwc-stripe-prod" to distinguish it from possible other stacks that are called "app" (the default name, based on the root directory):
+Using the production docker-compose file, build and tag the Docker image, and run the container specifying its name as "remotion-prod" to distinguish it from possible other stacks that are called "app" (the default name, based on the root directory):
 
 ```
 $ cd containers/app
-$ docker-compose --file docker-compose.prod.yml --project-name pwc-stripe-prod up --build -d
+$ docker-compose --file docker-compose.prod.yml --project-name remotion-prod up --build -d
 ```
 
 **Note**:   
