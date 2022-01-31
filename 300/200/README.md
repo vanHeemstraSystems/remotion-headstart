@@ -139,7 +139,7 @@ $ docker-compose --file docker-compose.dev.yml --project-name pwc-stripe-dev up 
 
 If successful, you can browse to the start page of the new React App, which will look like below:
 
-![React App Screen Shot](react_app_screen_shot.png)
+![image](https://user-images.githubusercontent.com/12828104/151762653-545d31d9-d35d-46db-b6fa-d07e0b3e70ed.png)
 
 http://localhost:8080
 
