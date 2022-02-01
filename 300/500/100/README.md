@@ -18,7 +18,7 @@ See [README.md](./300/README.md)
 
 See [README.md](./400/README.md)
 
-## 500 - Reuse Components
+## 500 - Reuse Components Using Sequences
 
 See [README.md](./500/README.md)
 
