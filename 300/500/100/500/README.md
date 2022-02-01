@@ -1,1 +1,1 @@
-# 500 - Reuse Components
+# 500 - Reuse Components Using Sequences
